@@ -8,6 +8,10 @@ pricing and a real seven-step booking flow.
 
 ![VANTA DETAIL hero](screenshots/01-hero.png)
 
+## Promo video
+
+A 35-second vertical promo built from the site's own 3D scene and real screens: [watch on X](https://x.com/MuadDevvlxn/status/2105318561442853010) · [watch on Instagram](https://www.instagram.com/mouad.webdev/reel/Dd6qwFGJiQm/).
+
 ## What's inside
 
 - **Scroll-driven 3D hero** — the camera circles a realistic car (front ¾ → front → side → rear → paint
