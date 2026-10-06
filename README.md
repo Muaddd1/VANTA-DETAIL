@@ -66,4 +66,7 @@ Darmstadt Graphics Group, CC BY 4.0 (modified, logos removed).
 ---
 
 This repository is a showcase. The full source code is available as a paid template.
-Built by [Mouad Sehli](https://muad-portfolio.vercel.app).
+
+## Author
+
+Built by [Mouad Sehli](https://muad-portfolio.vercel.app), freelance front-end developer (React, TypeScript, Tailwind). More work and contact details are on the [portfolio](https://muad-portfolio.vercel.app).
