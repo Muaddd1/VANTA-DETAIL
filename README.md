@@ -40,7 +40,7 @@ A 35-second vertical promo built from the site's own 3D scene and real screens: 
 
 ## Built with
 
-React 19 · TypeScript · Vite · Tailwind CSS v4 · three.js / React Three Fiber · React Router.
+React 19 · TypeScript · Vite · Tailwind CSS v4 · three.js / React Three Fiber + Drei · React Router.
 Content lives in a few documented config files; the demo booking engine runs in the browser and has
 two functions to swap for a real calendar API.
 
