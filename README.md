@@ -29,6 +29,8 @@ A 35-second vertical promo built from the site's own 3D scene and real screens: 
   a journal, FAQ, a "/" quick-nav and a light theme. 14 pages plus service and article pages.
 
 ![Surface analysis](screenshots/02-surface-analysis.png)
+![Services and pricing](screenshots/05-services.png)
+![The surface lab](screenshots/07-surface-lab.png)
 ![Quote builder](screenshots/11-quote-builder.png)
 ![Before and after](screenshots/06-before-after.png)
 ![Booking calendar](screenshots/12-booking-calendar.png)
@@ -36,6 +38,8 @@ A 35-second vertical promo built from the site's own 3D scene and real screens: 
 ![Detailing scan](screenshots/04-detailing-scan.png)
 ![Ceramic water test](screenshots/08-ceramic.png)
 ![The finish](screenshots/09-the-finish.png)
+![Ceramic protection](screenshots/03-rear.png)
+![Memberships](screenshots/10-membership.png)
 ![Mobile](screenshots/14-mobile.png)
 
 ## Built with
