@@ -56,6 +56,7 @@ Darmstadt Graphics Group, CC BY 4.0 (modified, logos removed).
 
 ## More templates
 
+- [AURELION](https://github.com/Muaddd1/AURELION) — luxury car dealership platform with a 3D configurator, server-side pricing and appointment booking ([demo](https://aurelion-muad1.vercel.app))
 - [PROOF](https://github.com/Muaddd1/PROOF) — AI performance and outcome SaaS template with AI task replays, missions, a transparent ROI center and an approval center ([demo](https://proof-muad1.vercel.app))
 - [SYNTRA](https://github.com/Muaddd1/SYNTRA) — AI business command center SaaS template with an AI command palette, an approval queue with audit log, a visual workflow builder and five AI agents ([demo](https://syntra-muad1.vercel.app))
 - [NEXFORM](https://github.com/Muaddd1/NEXFORM) — futuristic personal-trainer template with a 3D athlete, a personalisation quiz, a 3D body map and a real booking flow ([demo](https://nexform-muad1.vercel.app))
